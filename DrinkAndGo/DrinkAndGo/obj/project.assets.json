@@ -13217,11 +13217,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrea\\Desktop\\AppWeb\\DrinkCommerce\\DrinkAndGo\\DrinkAndGo\\DrinkAndGo.csproj",
+      "projectUniqueName": "C:\\Users\\Andrea\\Desktop\\AppWeb\\DrinkCommerce\\DrinkCommerce\\DrinkAndGo\\DrinkAndGo\\DrinkAndGo.csproj",
       "projectName": "DrinkAndGo",
-      "projectPath": "C:\\Users\\Andrea\\Desktop\\AppWeb\\DrinkCommerce\\DrinkAndGo\\DrinkAndGo\\DrinkAndGo.csproj",
+      "projectPath": "C:\\Users\\Andrea\\Desktop\\AppWeb\\DrinkCommerce\\DrinkCommerce\\DrinkAndGo\\DrinkAndGo\\DrinkAndGo.csproj",
       "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrea\\Desktop\\AppWeb\\DrinkCommerce\\DrinkAndGo\\DrinkAndGo\\obj\\",
+      "outputPath": "C:\\Users\\Andrea\\Desktop\\AppWeb\\DrinkCommerce\\DrinkCommerce\\DrinkAndGo\\DrinkAndGo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

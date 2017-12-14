@@ -12,6 +12,7 @@ using Microsoft.Extensions.Configuration;
 using DrinkAndGo.Data;
 using Microsoft.EntityFrameworkCore;
 using DrinkAndGo.Data.Repositories;
+using DrinkAndGo.Data.Models;
 
 namespace DrinkAndGo
 {
@@ -44,6 +45,10 @@ namespace DrinkAndGo
 
             services.AddTransient<ICategoryRepository, CategoryRepository>();
             services.AddTransient<IDrinkRepository, DrinkRepository>();
+
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddScoped(sp => ShoppingCart.GetCart(sp));
+
 
             services.AddMvc();
 

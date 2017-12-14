@@ -6,22 +6,9 @@
 <h2>@Model.CurrentCategory</h2>
 
 @{
-    foreach (var drink in Model.Drinks) { 
-
-        <div class="col-sm-4 col-lg-4 col-md-4">
-            <div class="thumbnail">
-                <img src="~/Images/@drink.ImageThumbnailUrl" alt="" class="square"/>
-            
-                <div class="caption">
-                    <h3>
-                        <a>@drink.Name</a>
-                    </h3>
-                    <p>@drink.ShortDescription</p>
-                </div>
-
-            </div>
-            
-        </div>
+    foreach ( Drink drink in Model.Drinks)
+    {
+            @Html.Partial("DrinksSummery",drink);
     }
 
 

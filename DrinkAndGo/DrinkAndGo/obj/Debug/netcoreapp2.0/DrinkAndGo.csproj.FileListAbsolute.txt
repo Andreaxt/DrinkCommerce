@@ -9,3 +9,14 @@ C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkAndGo\DrinkAndGo\obj\Debug\net
 C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.AssemblyInfo.cs
 C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.dll
 C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.pdb
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.deps.json
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.runtimeconfig.json
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.dll
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.pdb
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.dll
+C:\Users\Andrea\Desktop\AppWeb\DrinkCommerce\DrinkCommerce\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.pdb
